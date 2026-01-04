@@ -2,7 +2,7 @@
 
 **Project Title**
 
-Spotify 2023 Streaming Trends & Audio Analytics Dashboard
+Spotify Music Analysis
 
 **Description**
 
